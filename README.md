@@ -9,6 +9,7 @@ Esta aplicación de escritorio es una pequeña solución desarrollada para cumplir 
 * El código fuente ha sido manejado y compartido en la plataforma de GitHub.
 
 *Ejecución de la solución*
+
 Para la ejecución de la solución es necesario seguir los siguientes pasos:
 * Descargar el código fuente de GitHub desde la dirección:
 * Abrir la solución TaskManager.sln desde un entorno de desarrollo como Visual Studio .NET 2022 y previamente configurado para trabajar con el framework net8.0
@@ -16,6 +17,7 @@ Para la ejecución de la solución es necesario seguir los siguientes pasos:
 * Ejecutar la solución
 
 *Decisiones técnicas*
+
 Además de seguir las instrucciones del documento de requerimientos se tomaron las siguientes decisiones
 * Base de datos: al iniciar la ejecución de la aplicación se hace la validación de la existencia del archivo de la base de datos.
 ** Si el archivo existe, se continua con la inicialización de los componentes de la solución.
