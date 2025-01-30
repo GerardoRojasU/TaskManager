@@ -1,7 +1,8 @@
 **Administrador de Tareas**
+
 Esta aplicación de escritorio es una pequeña solición desarrollada para cumplir con un reto técnico para aplicar por el puesto de Senior Software Developer enfocado en tecnologías .Net y el lenguaje de programación C#.
 
-**Configuracion del entorno de Desarrollo**
+*Configuracion del entorno de Desarrollo*
 * El entorno de desarrollo se configuró creando una aplicacion para escritorio, utilizando el framework de UI Windows Presentation Fundation(WPF).
 * Se diseño siguiendo el patrón de arquitectura Modelo Vista Modelo (MVVM)
 * Para la persistencia de datos se utilizó la libreria SQLite que funciona como manejador de base de datos liviano, rápido, auto contenida y muy versátil
@@ -32,5 +33,5 @@ Además de seguir las intrucciones del documento de requerimientos se tomaron las
 * Se escribió el codigo utilizando la tabulación para estructurar los bloques de código y mejorar la legibilidad.
 
 *Convenciones*
-Para la definición de nombres de variables se utilizó camelCase
-Para la definición de nombres de propiedades, métodos y funciones se utilizó PascalCase
+* Para la definición de nombres de variables se utilizó camelCase
+* Para la definición de nombres de propiedades, métodos y funciones se utilizó PascalCase
